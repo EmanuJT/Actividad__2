@@ -1,0 +1,20 @@
+realizar un programa que revisa una calificacion y muestre una letra 
+en pantalla de 
+90 a 100 letra A 
+80 a 89 letra B
+70 a 790 letra C 
+60 a 69 letra D 
+y para el resto de la calificacion la letra F 
+
+
+Rea;izar un programa que resiva un numero y los muestre el dia de la semana que 
+corresponda ese numero luner=1 martes=2
+los dos con swcht
+
+realizar un programa que calcule el descuento de los articulos comprados 
+en el siguente orden 
+0 al 10 el 5%
+11 a 20 el 10%
+apartir de 21 el 15% 
+y una vez que termino el descuesto incremente el 16% de iva imprima el 
+total de la compra 
