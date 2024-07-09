@@ -1,0 +1,9 @@
+Ejercicio 1:
+Realiza un programa que realice la suma de todos los numeros pares de 0 al 100
+
+Ejercicio 2:
+Realiza un programa que realice la suma de todos los numeros impares del 0 al 100
+
+Ejercicio
+Realiza un programa que muestre todos los numeros primos que se ubiquen el rango 
+que el usuario elija 
