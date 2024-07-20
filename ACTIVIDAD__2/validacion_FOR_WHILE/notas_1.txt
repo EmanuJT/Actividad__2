@@ -1,0 +1,20 @@
+Ejercicio 1:
+
+Realizar un programa que cuente los numeros del 1 al 10
+usando un while.
+
+Ejercicio 2:
+Realizar un programa que cuente los numeros del 1 al 10
+usando un dowhile.
+
+Ejercicio 3:
+Realizar un programa que sume los numeros del 1 al 100
+con un while.
+
+Ejercicio 4:
+Realizar un programa que sume los numeros del 1 al 100
+con un dowhile.
+
+Ejercicio 5:
+Realizar un pograma de las tablas del 1 al 10 usando 
+un while o dowhile segun lo considera. 
